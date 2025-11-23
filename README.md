@@ -100,4 +100,4 @@ MIT License
 
 ---
 
-**Questions?** Open an issue or contact the maintainer.
+
