@@ -6,7 +6,7 @@ A modern, responsive registration form with real-time database integration.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/smartlife-registration.git
+git clone https://github.com/Kushi-301/smartlife-registration.git
 cd smartlife-registration
 
 text
